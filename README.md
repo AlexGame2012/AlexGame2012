@@ -21,7 +21,7 @@
 | Язык| Картинка |
 |------------|-----------|
 | <img src="https://i.ibb.co/rwFWSrv/image-3.png" alt="1" width="200"/> | Я покорил turtle |
-| <img srs="https://ltdfoto.ru/image/hRMhHV"  alt="1" width="200"/> | Я справился с проектами и набрал более 45 баллов |
+| <img srs="https://i.ibb.co/K5ZfRGc/image-3.png" alt="1" width="200"/> | Я справился с проектами и набрал более 45 баллов |
 
 ## ⏳ Время изучения Python
 
