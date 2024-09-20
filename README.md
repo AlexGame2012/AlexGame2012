@@ -21,7 +21,8 @@
 | Язык| Картинка |
 |------------|-----------|
 | <img srs="https://i.ibb.co/K5ZfRGc/image-3.png" alt="1" width="200"/> | Я справился с проектами и набрал более 45 баллов |
-
+| ![alt text](https://i.ibb.co/K5ZfRGc/image-3.png)
+ |
 ## ⏳ Время изучения Python
 
 Изучил Python на: 100%
