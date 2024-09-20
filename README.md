@@ -1,32 +1,33 @@
-# Привет, меня зовут AlexGame Studio 👋
+# Hello, my company AlexGame Studio 👋
 
-Добро пожаловать на мой профиль GitHub! Я разработчик, увлеченный Python и другими технологиями.
+Welcome to my GitHub profile! I am a developer passionate about Python, Java Script and other technologies.
 
-## 📂 Мои проекты
+## 📂 My projects
 
-| Проект | Ссылка |
+| Project | Link |
 |--------|--------|
-| **Игровой помощник**<br>Движок Python| [Ссылка на проект](https://hub.kodland.org/project/266062) |
-| **Epic Hamster Adventures: Victory and Trophies**<br> Итоговый проект движок PG ZERO | [Ссылка на проект](https://hub.kodland.org/project/300755) |
-## 🏆 Мои достижения
+| **Game bot**<br> Python engine| [Project link](https://hub.kodland.org/project/266062) |
+| **Epic Hamster Adventures: Victory and Trophies**<br> PyGame engine  | [Project link](https://hub.kodland.org/project/300755) |
+## 🏆 My achievements
 
-- Изучаю Python 
+- Learning Python
+- Learning Java Script
 
-## 📜 Мои ачивки
+### Languages ​​I have learned
 
-Здесь я буду делиться своими ачивками.
-
-### Языки которые я изучил
-
-| Язык| Картинка |
+| Programming language | Picture |
 |------------|-----------|
 |**Java Script**| ![alt text](https://i.ibb.co/syBJfpq/image-3.png) |
 |**Python**| ![alt text](https://i.ibb.co/K5ZfRGc/image-3.png)|
- |
-## ⏳ Время изучения Python
 
-Изучил Python на: 100%
+## ⏳ Time to learn Python
+
+Learned Python: 100%
+
+## ⏳ Time to learn Java Script
+
+Learned Java Script: 100%
 
 
 
-Спасибо за посещение моего профиля! 
+# Thanks for visiting my profile GitHub!
