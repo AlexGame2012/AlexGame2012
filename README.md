@@ -26,7 +26,7 @@ Learned Python: 100%
 
 ## ⏳ Time to learn Java Script
 
-Learned Java Script: 100%
+Learned Java Script: 50%
 
 
 
