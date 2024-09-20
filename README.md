@@ -20,7 +20,7 @@
 
 | Язык| Картинка |
 |------------|-----------|
-|**Python**| ![alt text](https://i.ibb.co/BqJWxJ1/image-3.png) |
+|**Python**| ![alt text](https://i.ibb.co/syBJfpq/image-3.png) |
 |**Java Script**| ![alt text](https://i.ibb.co/K5ZfRGc/image-3.png)|
  |
 ## ⏳ Время изучения Python
