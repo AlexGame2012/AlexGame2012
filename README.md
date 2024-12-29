@@ -1,4 +1,4 @@
-# Hello, my company AlexGame Studio 👋
+# Hello, my company AlexStudio Code 👋
 
 Welcome to my GitHub profile! I am a developer passionate about Python, Java Script and other technologies.
 
