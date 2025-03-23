@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a developer passionate about Python, Java Scr
 
 | Programming language | Picture |
 |------------|-----------|
-|**Java Script**| ![alt text](https://i.ibb.co/syBJfpq/image-3.png) |
+|**Java Script**| ![alt text](https://i.ibb.co/syBJfpq/image-3.jpeg) |
 |**Python**| ![alt text](https://i.ibb.co/K5ZfRGc/image-3.png)|
 
 ## ⏳ Time to learn Python
