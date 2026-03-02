@@ -95,6 +95,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Telegraf](https://img.shields.io/badge/-Telegraf-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![pyTelegramBotAPI](https://img.shields.io/badge/-pyTelegramBotAPI-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
