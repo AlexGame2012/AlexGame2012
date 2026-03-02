@@ -1,33 +1,142 @@
-# Hello, my company AlexStudio Code 👋
+<div align="center">
+  <img src="https://i.imgur.com/Svz1Ed7.png" alt="Alex Studio Code Logo" width="120" height="120" style="border-radius: 20px;"/>
+  
+  # 🚀 AlexStudio Code
+  
+  [![Website](https://img.shields.io/badge/-alexstudiocode.ru-0A2647?style=for-the-badge&logo=google-chrome&logoColor=5FD0A7)](https://alexstudiocode.ru)
+  [![Telegram](https://img.shields.io/badge/-@AlexStudioCode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexStudioCode)
+  [![GitHub](https://img.shields.io/badge/-@AlexGame2012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGame2012)
+  [![Email](https://img.shields.io/badge/-info@alexstudiocode.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexstudiocode.ru)
+</div>
 
-Welcome to my GitHub profile! I am a developer passionate about Python, Java Script and other technologies.
+---
 
-## 📂 My projects
+## 🌟 Кто мы
 
-| Project | Link |
-|--------|--------|
-| **Game bot**<br> Python engine| [Project link](https://hub.kodland.org/project/266062) |
-| **Epic Hamster Adventures: Victory and Trophies**<br> PyGame engine  | [Project link](https://hub.kodland.org/project/300755) |
-## 🏆 My achievements
+**AlexStudio Code** — молодая и амбициозная студия разработки, основанная в **2024 году**. Мы не просто пишем код — мы создаём цифровые продукты будущего в разных направлениях: от игр до корпоративных решений.
 
-- Learning Python
-- Learning Java Script
+> *"Создаём цифровые решения, которые работают на результат"*
 
-### Languages ​​I have learned
+Наша философия — использовать передовые технологии, чтобы превращать самые смелые идеи в реальность.
 
-| Programming language | Picture |
-|------------|-----------|
-|**Java Script**| ![alt text](https://i.ibb.co/syBJfpq/image-3.png) |
-|**Python**| ![alt text](https://i.ibb.co/K5ZfRGc/image-3.png)|
+📢 **Подписывайтесь на наш Telegram-канал** — там мы публикуем новости, кейсы и полезные материалы о разработке: [@AlexStudioCode](https://t.me/AlexStudioCode)
 
-## ⏳ Time to learn Python
+---
 
-Learned Python: 100%
+## 🎯 Наши направления разработки
 
-## ⏳ Time to learn Java Script
+<div align="center">
 
-Learned Java Script: 50%
+| 🎮 GameDev | 🌐 Web | 🤖 Telegram Bots | 📱 Mobile | 🌍 Social |
+|:----------:|:------:|:-----------------:|:---------:|:---------:|
+| Игры на Python (Pygame) | Веб-приложения и сайты | Интеллектуальные боты | Кроссплатформенные приложения | Информационные проекты |
 
+</div>
 
+---
 
-# Thanks for visiting my profile GitHub!
+## 💼 Наши проекты
+
+### 🎮 Игра-Рогалик
+> *Увлекательная рогалик-игра с процедурной генерацией и постоянным развитием*
+
+Исследуй подземелья, собирай артефакты и прокачивай персонажа. Написана на Python с использованием Pygame.
+
+```
+🔧 Стек: Python, Pygame, 2D-графика
+🔗 Ссылка: /roguelike-game-asc
+```
+
+[![Скачать игру](https://img.shields.io/badge/-Скачать_игру-6366f1?style=for-the-badge)](https://alexstudiocode.ru/roguelike-game-asc)
+
+---
+
+### 🌍 Глобальное потепление
+> *Информационный проект о проблемах изменения климата*
+
+Просветительская платформа, посвящённая проблемам изменения климата и способам борьбы с глобальным потеплением.
+
+```
+🔧 Стек: HTML, CSS, JavaScript
+🔗 Репозиторий: github.com/AlexGame2012/global-warming
+```
+
+[![Исходный код](https://img.shields.io/badge/-Исходный_код-181717?style=for-the-badge&logo=github)](https://github.com/AlexGame2012/global-warming.git)
+
+---
+
+### 🤖 Portfolio Bot
+> *Умный Telegram бот для презентации портфолио разработчика*
+
+Показывает проекты, навыки и контакты в удобном интерактивном формате. Идеальное решение для фрилансеров и студий.
+
+```
+🔧 Стек: Node.js, Telegraf, Telegram Bot API
+🔗 Репозиторий: github.com/AlexGame2012/bot_portfolio
+```
+
+[![Исходный код](https://img.shields.io/badge/-Исходный_код-181717?style=for-the-badge&logo=github)](https://github.com/AlexGame2012/bot_portfolio.git)
+
+---
+
+## 🛠 Наш технологический арсенал
+
+<div align="center">
+
+### GameDev (Python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Bots
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Telegraf](https://img.shields.io/badge/-Telegraf-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Статистика студии
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/📦%20Проектов-5%2B-6366f1?style=for-the-badge)
+![Founded](https://img.shields.io/badge/📅%20Основана-2024-10b981?style=for-the-badge)
+![Stack](https://img.shields.io/badge/⚙️%20Стек-Python%20%7C%20JS%20%7C%20Node.js-64748b?style=for-the-badge)
+
+</div>
+
+---
+
+## 📬 Связь с нами
+
+<div align="center">
+
+**Хотите заказать разработку, предложить сотрудничество или просто пообщаться?** Мы всегда на связи!
+
+| Канал | Контакт |
+|-------|---------|
+| 📧 Email | [info@alexstudiocode.ru](mailto:info@alexstudiocode.ru) |
+| 📧 Поддержка | [support@alexstudiocode.ru](mailto:support@alexstudiocode.ru) |
+| 📱 Telegram | [@AlexStudioCode](https://t.me/AlexStudioCode) |
+| 🐙 GitHub | [AlexGame2012](https://github.com/AlexGame2012) |
+
+</div>
+
+---
+
+<div align="center">
+  <sub>📢 Подписывайтесь на наш Telegram-канал: <a href="https://t.me/AlexStudioCode">@AlexStudioCode</a></sub>
+  <br>
+  <sub>© 2026 AlexStudio Code. All rights reserved.</sub>
+</div>
