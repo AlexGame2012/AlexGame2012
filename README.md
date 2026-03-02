@@ -44,7 +44,6 @@
 
 ```
 🔧 Стек: Python, Pygame, 2D-графика
-🔗 Ссылка: /roguelike-game-asc
 ```
 
 [![Скачать игру](https://img.shields.io/badge/-Скачать_игру-6366f1?style=for-the-badge)](https://alexstudiocode.ru/roguelike-game-asc)
