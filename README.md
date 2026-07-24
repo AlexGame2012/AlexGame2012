@@ -148,7 +148,7 @@
 | 📧 Поддержка | [support@alexstudiocode.ru](mailto:support@alexstudiocode.ru) |
 | 📱 Telegram | [@AlexStudioCode](https://t.me/AlexStudioCode) |
 | 🐙 GitHub | [AlexGame2012](https://github.com/AlexGame2012) |
-| 🌀 GitVerse | [AlexGame2012](https://gitverse.ru/AlexStudio-Code) |
+| 🌀 GitVerse | [AlexStudio-Code](https://gitverse.ru/AlexStudio-Code) |
 
 </div>
 
