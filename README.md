@@ -7,7 +7,7 @@
   [![Telegram](https://img.shields.io/badge/-@AlexStudioCode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexStudioCode)
   [![GitHub](https://img.shields.io/badge/-@AlexGame2012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGame2012)
   [![Email](https://img.shields.io/badge/-info@alexstudiocode.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexstudiocode.ru)
-  [![GitVerse](https://img.shields.io/badge/-GitVerse-6C47FF?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/AlexGame2012)
+  [![GitVerse](https://img.shields.io/badge/-GitVerse-6C47FF?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/AlexStudio-Code)
 </div>
 
 ---
@@ -148,7 +148,7 @@
 | 📧 Поддержка | [support@alexstudiocode.ru](mailto:support@alexstudiocode.ru) |
 | 📱 Telegram | [@AlexStudioCode](https://t.me/AlexStudioCode) |
 | 🐙 GitHub | [AlexGame2012](https://github.com/AlexGame2012) |
-| 🌀 GitVerse | [AlexGame2012](https://gitverse.ru/AlexGame2012) |
+| 🌀 GitVerse | [AlexGame2012](https://gitverse.ru/AlexStudio-Code) |
 
 </div>
 
