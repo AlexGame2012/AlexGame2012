@@ -7,6 +7,7 @@
   [![Telegram](https://img.shields.io/badge/-@AlexStudioCode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexStudioCode)
   [![GitHub](https://img.shields.io/badge/-@AlexGame2012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGame2012)
   [![Email](https://img.shields.io/badge/-info@alexstudiocode.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alexstudiocode.ru)
+  [![GitVerse](https://img.shields.io/badge/-GitVerse-6C47FF?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/AlexGame2012)
 </div>
 
 ---
@@ -70,11 +71,26 @@
 Показывает проекты, навыки и контакты в удобном интерактивном формате. Идеальное решение для фрилансеров и студий.
 
 ```
-🔧 Стек: Node.js, Telegraf, Telegram Bot API
+🔧 Стек: Python, pyTelegramBotAPI, SQLite/PostgreSQL
 🔗 Репозиторий: github.com/AlexGame2012/bot_portfolio
 ```
 
 [![Исходный код](https://img.shields.io/badge/-Исходный_код-181717?style=for-the-badge&logo=github)](https://github.com/AlexGame2012/bot_portfolio.git)
+
+---
+
+### 👑 Vertex Manager Bot
+> *Мощный чат-менеджер для Telegram с продвинутой модерацией и экономикой*
+
+Многофункциональный бот для управления сообществами. Включает 5-уровневую систему модерации, внутреннюю валюту, систему подарков, казино, лутбоксы и пополнение через Telegram Stars. Идеальное решение для игровых, крипто- и развлекательных чатов.
+
+```
+🔧 Стек: Python, pyTelegramBotAPI, SQLite/PostgreSQL
+🔗 Репозиторий: github.com/AlexGame2012/vertex-manager-bot
+```
+
+[![Исходный код](https://img.shields.io/badge/-Исходный_код-181717?style=for-the-badge&logo=github)](https://github.com/AlexGame2012/vertex-manager-bot.git)
+[![Документация](https://img.shields.io/badge/-Документация-26A5E4?style=for-the-badge&logo=gitbook&logoColor=white)](https://alexstudiocode.ru/vertex-bot-docs)
 
 ---
 
@@ -101,6 +117,7 @@
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitVerse](https://img.shields.io/badge/-GitVerse-6C47FF?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -111,7 +128,7 @@
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/📦%20Проектов-5%2B-6366f1?style=for-the-badge)
+![Projects](https://img.shields.io/badge/📦%20Проектов-6%2B-6366f1?style=for-the-badge)
 ![Founded](https://img.shields.io/badge/📅%20Основана-2024-10b981?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/⚙️%20Стек-Python%20%7C%20JS%20%7C%20Node.js-64748b?style=for-the-badge)
 
@@ -131,6 +148,7 @@
 | 📧 Поддержка | [support@alexstudiocode.ru](mailto:support@alexstudiocode.ru) |
 | 📱 Telegram | [@AlexStudioCode](https://t.me/AlexStudioCode) |
 | 🐙 GitHub | [AlexGame2012](https://github.com/AlexGame2012) |
+| 🌀 GitVerse | [AlexGame2012](https://gitverse.ru/AlexGame2012) |
 
 </div>
 
